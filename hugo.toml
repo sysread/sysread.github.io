@@ -1,0 +1,14 @@
+baseURL = 'https://sysread.github.io/'
+languageCode = 'en-us'
+title = 'sysread'
+theme = 'hyde'
+
+[params]
+description = "Understanding a complex world by means of a simple mind"
+layoutReverse = true
+
+[Menus]
+main = [
+  {Name = "Github", URL = "https://github.com/sysread/"},
+  {Name = "LinkedIn", URL = "https://www.linkedin.com/in/jeffober/"}
+]
