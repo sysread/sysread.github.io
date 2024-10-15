@@ -2,6 +2,7 @@ baseURL = 'https://sysread.github.io/'
 languageCode = 'en-us'
 title = 'sysread'
 theme = 'hyde'
+publishDir = 'docs'
 
 [params]
 description = "Understanding a complex world by means of a simple mind"
