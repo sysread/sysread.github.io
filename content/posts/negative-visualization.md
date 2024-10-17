@@ -10,7 +10,7 @@ Hedonistic adaptation can actually be beneficial in negative circumstances, allo
 
 # What is negative visualization?
 
-Negative visualization is a Stoic practice that helps counteract hedonistic adaptation. Interestingly, it also has parallels with some cognitive behavioral therapy (CBT) exercises, where imagining worst-case scenarios can help reduce anxiety and manage negative emotions. By preparing ourselves for possible challenges, we can decrease their emotional impact. &#x20;
+Negative visualization is a Stoic practice that helps counteract hedonistic adaptation. Interestingly, it has parallels with some cognitive behavioral therapy (CBT) exercises, where imagining worst-case scenarios can help reduce anxiety and manage negative emotions. By preparing ourselves for possible challenges, we can decrease their emotional impact. &#x20;
 
 The goal of negative visualization is to trick our brain into wanting the things we already have again. By mentally picturing losing the people and things we value, we  appreciate them more deeply and reduce the inclination to take them for granted. This practice helps us to manage expectations, reducing the emotional blow when setbacks or loss occurs, having already prepared ourselves for  adversity.
 
