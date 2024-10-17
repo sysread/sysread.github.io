@@ -8,7 +8,7 @@ Hedonistic adaptation is the human ability to normalize just about *anything*. 
 
 Hedonistic adaptation can actually be beneficial in negative circumstances, allowing us to normalize worsening situations without constantly feeling pain or distress (which, in itself, could arguably be a negative, such as in the case of boiled frog syndrome). The downside, though, is that it works both ways; it can  turn your lottery winnings into  the "new normal", leaving you yearning for more instead of feeling content.
 
-# Negative Visualization
+# What is negative visualization?
 
 Negative visualization is a Stoic practice that helps counteract hedonistic adaptation. Interestingly, it also has parallels with some cognitive behavioral therapy (CBT) exercises, where imagining worst-case scenarios can help reduce anxiety and manage negative emotions. By preparing ourselves for possible challenges, we can decrease their emotional impact. &#x20;
 
@@ -18,13 +18,13 @@ Negative visualization is also a powerful method for cultivating gratitude. Grat
 
 # Practices
 
-## Imagining Inconvenience
+## Imagining inconvenience
 
 A recent situation where I put negative visualization into practice was before a concert that I wasn't sure  I'd enjoy. With ADHD, the worst-case scenario  would have been sitting still for hours with nothing to do, unable to leave politely, and having to endure each excruciating moment of boredom, unable to ignore the distraction of the concert to think about other things. On the drive to the concert, I imagined exactly that: sitting there, feeling restless, bored, and trapped.
 
 As a result, when the concert turned out to be better than expected, my emotional response was surprisingly exuberant. I ended up enjoying the concert and had a wonderful evening. Without  visualization beforehand, I likely would have been more negatively predisposed  to enjoying the experience. Instead, I enjoyed a memorable evening with my family and even discovered a new band.
 
-## Imagining Major Setbacks in Your Life
+## Imagining major setbacks in your life
 
 Negative visualization can help prepare you for major setbacks. These could include losing your job, your 16-year-old popping one of the brand-new tires you just bought for your car, or a rock cracking your windshield (which you also just paid to replace)... just to name a few recent examples from my own life.
 
@@ -32,7 +32,7 @@ At my last job, I was lucky enough to get a quiet warning ahead of time that I'd
 
 Instead of panicking, I focused my energy on applying for new jobs and honing skills that I thought would make me more attractive in the job market. Eventually, I found a very rewarding position. Like every other layoff I've experienced, this one turned out to be a blessing in disguise. The fact that I was emotionally prepared  for it, even unintentionally, meant that I was able to treat it as an opportunity rather than a misfortune.
 
-## Imagining Loss
+## Imagining loss
 
 Imagining significant losses, such as losing a loved one, a close friend, or a beloved pet, is one of the most challenging aspects of negative visualization. It involves picturing someone you deeply care about dying or otherwise being removed from your life. While it may seem counterintuitive, it ultimately helps foster gratitude for the time you have with them now.
 
